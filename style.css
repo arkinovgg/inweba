@@ -1391,7 +1391,7 @@ footer {
     }
 }
 
-@media (min-width: 2000px) {
+@media (width: 1920px) {
     .launch {
         text-align: center;
         background-color: white;
