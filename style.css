@@ -1391,7 +1391,7 @@ footer {
     }
 }
 
-@media (max-width: 1440px), (max-height: 900) {
+@media (max-width: 1440px) and (max-height: 800px) {
     .launch {
         text-align: center;
         background-color: white;
